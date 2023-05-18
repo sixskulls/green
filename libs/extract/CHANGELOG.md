@@ -2,6 +2,15 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [1.3.2](https://github.com/sixskulls/green/compare/@sebgroup/extract@1.3.1...@sebgroup/extract@1.3.2) (2023-05-18)
+
+
+### Bug Fixes
+
+* **dropdown:** listbox should have same width as button ([#889](https://github.com/sixskulls/green/issues/889)) ([bdb67e6](https://github.com/sixskulls/green/commit/bdb67e696d64c9ce3928bd6259dffe82b0539249))
+
+
+
 ## [1.3.2](https://github.com/sebgroup/green/compare/@sebgroup/extract@1.3.1...@sebgroup/extract@1.3.2) (2023-05-12)
 
 

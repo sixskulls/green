@@ -2,20 +2,16 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
-# [1.9.0](https://github.com/sixskulls/green/compare/@sebgroup/chlorophyll@1.8.0...@sebgroup/chlorophyll@1.9.0) (2023-05-18)
+## [1.10.2](https://github.com/sebgroup/green/compare/@sebgroup/chlorophyll@1.10.1...@sebgroup/chlorophyll@1.10.2) (2023-05-16)
+
+
+
+## [1.10.1](https://github.com/sebgroup/green/compare/@sebgroup/chlorophyll@1.10.0...@sebgroup/chlorophyll@1.10.1) (2023-05-16)
 
 
 ### Bug Fixes
 
-* 🐛 Make wizard step card footber button show flex-start ([#876](https://github.com/sixskulls/green/issues/876)) ([8334baa](https://github.com/sixskulls/green/commit/8334baab6f7527d19e04e0f283a6cc6c3be4182c))
-* **checkbox:** animations & hover ([#868](https://github.com/sixskulls/green/issues/868)) ([d2edb2e](https://github.com/sixskulls/green/commit/d2edb2ec92bcfae1e447efecff83517ef6340183))
-* **links:** fix incorrectly applied `:visited` color ([#857](https://github.com/sixskulls/green/issues/857)) ([31b3f50](https://github.com/sixskulls/green/commit/31b3f5030357e87605da8153f8b05b609a69cd29))
-
-
-### Features
-
-* 🎸 Context Menu ([#852](https://github.com/sixskulls/green/issues/852)) ([8ede687](https://github.com/sixskulls/green/commit/8ede687c363f3fbc9760d958ae17a9c467ca90e6))
-* **slider:** add styles for min max labels ([#878](https://github.com/sixskulls/green/issues/878)) ([79af603](https://github.com/sixskulls/green/commit/79af603d307917cd5aa17dd48d1e221e9eb22cc2))
+* **icon-button:** add missing type ([#891](https://github.com/sebgroup/green/issues/891)) ([70ea59d](https://github.com/sebgroup/green/commit/70ea59db8e9c499047661d703a5e6826a888039e))
 
 
 
